@@ -76,7 +76,6 @@ private:
 	}
 
 	// Operations
-
 	void siftDown(unsigned int i)
 	{
 		unsigned int left = getLeftChild(i);
